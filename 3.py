@@ -1,0 +1,5 @@
+print("hello coder")
+print("love yourself")  
+print('no boundaries beyond expectations')
+print("loving yourself doesnt mean being selfish")
+print("no insecurity")
